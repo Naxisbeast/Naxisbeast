@@ -29,7 +29,7 @@ I want my portfolio to show that I can:
 - Build and explain full-stack software systems.
 - Work with databases, authentication, and role-based application logic.
 - Apply AI concepts in practical academic projects.
-- Strengthen my data structures, algorithms, and object-oriented programming foundations.
+- Strengthen my programming, data structures, algorithms, and object-oriented programming foundations.
 - Document projects clearly and honestly.
 - Improve older work into professional, readable repositories.
 
@@ -39,12 +39,16 @@ I want my portfolio to show that I can:
 
 | Project | Focus Area | Skills Shown | Status |
 |---|---|---|---|
-| [CineBook-Group_4](https://github.com/Naxisbeast/CineBook-Group_4) | Cinema booking system | Full-stack development, databases, teamwork, role-based access | Polishing |
-| [Clinic-Appointment-System](https://github.com/Naxisbeast/Clinic-Appointment-System) | Healthcare scheduling system | React, TypeScript, Supabase, authentication, system design | Polishing |
-| [CMPG313-KMeans-Network-Clustering](https://github.com/Naxisbeast/CMPG313-KMeans-Network-Clustering) | AI / data clustering lab | Python, K-Means, NetworkX, data visualisation | Public academic project |
-| [CMPG_313_AI_Object_Detection](https://github.com/Naxisbeast/CMPG_313_AI_Object_Detection) | Object detection lab | Python, YOLOv8, OpenCV, computer vision basics | Under cleanup |
-| `data-structures-and-algorithms-java` | Core CS fundamentals | Java, algorithms, complexity, problem solving | Coming soon |
-| `database-systems-sql` | Database systems | SQL, schema design, joins, normalization | Coming soon |
+| [CineBook-Group_4](https://github.com/Naxisbeast/CineBook-Group_4) | Cinema booking system | Full-stack development, databases, teamwork, role-based access | Portfolio README improved |
+| [Clinic-Appointment-System](https://github.com/Naxisbeast/Clinic-Appointment-System) | Healthcare scheduling system | React, TypeScript, Supabase, authentication, system design | Env cleanup + README improved |
+| [data-structures-and-algorithms-java](https://github.com/Naxisbeast/data-structures-and-algorithms-java) | Core CS fundamentals | Java, linked lists, stacks, queues, recursion, complexity analysis, academic exercises | Phase 1 complete |
+| [database-systems-sql](https://github.com/Naxisbeast/database-systems-sql) | Database systems | SQL, schema design, relationships, joins, constraints, normalization | Phase 1 complete |
+| [object-oriented-programming-java](https://github.com/Naxisbeast/object-oriented-programming-java) | OOP fundamentals | Java, classes, encapsulation, inheritance, polymorphism, abstraction, interfaces | Phase 1 complete |
+| [python-intro-programming](https://github.com/Naxisbeast/python-intro-programming) | Intro programming | Python basics, input/output, conditionals, loops, functions, lists, files, CLI programs | Phase 1 complete |
+| [cpp-structured-programming](https://github.com/Naxisbeast/cpp-structured-programming) | Structured programming | C++, functions, arrays, structs, loops, conditionals, procedural mini-projects | Phase 1 complete |
+| [software-engineering-system-design](https://github.com/Naxisbeast/software-engineering-system-design) | Software engineering | Requirements, testing, UML notes, templates, risk, documentation, case studies | Phase 1 complete |
+| [CMPG313-KMeans-Network-Clustering](https://github.com/Naxisbeast/CMPG313-KMeans-Network-Clustering) | AI / data clustering lab | Python, K-Means, NetworkX, data visualisation | Portfolio cleanup complete |
+| [CMPG_313_AI_Object_Detection](https://github.com/Naxisbeast/CMPG_313_AI_Object_Detection) | Object detection lab | Python, YOLOv8, OpenCV, computer vision basics | Portfolio cleanup complete |
 | `ICT-Liquidity-Research-Engine / AURUM-1` | Research-driven algorithmic trading systems | Market structure research, data analysis, system thinking | Reference / research work |
 
 ---
@@ -57,6 +61,7 @@ I want my portfolio to show that I can:
 - Artificial intelligence and computer vision
 - Data structures and algorithms
 - Object-oriented programming
+- Structured programming and problem solving
 - Electronics and computer science foundations
 - Research-driven algorithmic trading systems
 
@@ -77,6 +82,7 @@ I want my portfolio to show that I can:
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -93,11 +99,12 @@ I want my portfolio to show that I can:
 
 | Area | What I Want To Show |
 |---|---|
-| Full-stack systems | I can connect frontend, backend, database, and authentication concepts. |
+| Full-stack systems | I can connect frontend, backend/database services, authentication, and role-based application concepts. |
+| Programming foundations | I can apply core programming concepts across Python, C++, and Java. |
 | Artificial intelligence | I can apply AI methods in academic labs and explain what they demonstrate. |
 | Databases | I can design schemas, write queries, and understand data relationships. |
 | DSA | I am strengthening my core computer science problem-solving foundations. |
-| Software engineering | I can work in teams, document systems, and improve older projects. |
+| Software engineering | I can work in teams, document systems, and improve older projects honestly. |
 
 ---
 
