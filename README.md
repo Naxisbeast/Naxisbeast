@@ -41,10 +41,10 @@ I want my portfolio to show that I can:
 |---|---|---|---|
 | [Clinic-Appointment-System](https://github.com/Naxisbeast/Clinic-Appointment-System) | Healthcare scheduling system | React, TypeScript, Supabase, authentication, role-based workflows | Env cleanup + README improved |
 | [CineBook-Group_4](https://github.com/Naxisbeast/CineBook-Group_4) | Cinema booking system | Full-stack development, databases, teamwork, role-based access | Portfolio README improved |
-| [data-structures-and-algorithms-java](https://github.com/Naxisbeast/data-structures-and-algorithms-java) | Core CS fundamentals | Java, linked lists, stacks, queues, recursion, complexity analysis | Phase 1 complete |
-| [database-systems-sql](https://github.com/Naxisbeast/database-systems-sql) | Database systems | SQL, schema design, relationships, joins, constraints, normalization | Phase 1 complete |
-| [object-oriented-programming-java](https://github.com/Naxisbeast/object-oriented-programming-java) | OOP fundamentals | Java, classes, encapsulation, inheritance, polymorphism, abstraction, interfaces | Phase 1 complete |
-| [software-engineering-system-design](https://github.com/Naxisbeast/software-engineering-system-design) | Software engineering | Requirements, testing, UML notes, templates, risk, documentation, case studies | Phase 1 complete |
+| [data-structures-and-algorithms-java](https://github.com/Naxisbeast/data-structures-and-algorithms-java) | Core CS fundamentals | Java, linked lists, stacks, queues, recursion, complexity analysis | Foundation repo |
+| [database-systems-sql](https://github.com/Naxisbeast/database-systems-sql) | Database systems | SQL, schema design, relationships, joins, constraints, normalization | Foundation repo |
+| [object-oriented-programming-java](https://github.com/Naxisbeast/object-oriented-programming-java) | OOP fundamentals | Java, classes, encapsulation, inheritance, polymorphism, abstraction, interfaces | Foundation repo |
+| [software-engineering-system-design](https://github.com/Naxisbeast/software-engineering-system-design) | Software engineering | Requirements, testing, UML notes, templates, risk, documentation, case studies | Foundation repo |
 
 ## Additional Academic Repositories
 
@@ -54,7 +54,7 @@ I want my portfolio to show that I can:
 | [cpp-structured-programming](https://github.com/Naxisbeast/cpp-structured-programming) | Structured programming | C++, functions, arrays, structs, loops, conditionals, procedural mini-projects |
 | [CMPG313-KMeans-Network-Clustering](https://github.com/Naxisbeast/CMPG313-KMeans-Network-Clustering) | AI / data clustering lab | Python, K-Means, NetworkX, data visualisation |
 | [CMPG_313_AI_Object_Detection](https://github.com/Naxisbeast/CMPG_313_AI_Object_Detection) | Object detection lab | Python, YOLOv8, OpenCV, computer vision basics |
-| `ICT-Liquidity-Research-Engine / AURUM-1` | Research-driven algorithmic trading systems | Reference / research work |
+| `ICT-Liquidity-Research-Engine / AURUM-1` | Personal side project | Research-driven algorithmic trading experiments and system-building practice |
 
 ---
 
@@ -76,7 +76,7 @@ I want my portfolio to show that I can:
 
 - Adding screenshots and short demo walkthroughs to full-stack projects.
 - Adding test plans and basic tests where they make sense.
-- Expanding Phase 1 learning repos into deeper Phase 2 examples.
+- Expanding foundation repos into deeper examples over time.
 - Improving AI labs with cleaner inputs, outputs, and evaluation notes.
 - Keeping group-project repositories honest about team contribution and academic context.
 
