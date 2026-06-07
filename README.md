@@ -51,10 +51,9 @@ I want my portfolio to show that I can:
 
 | Repository | Focus | Notes |
 |---|---|---|
+| [cmpg313-artificial-intelligence](https://github.com/Naxisbeast/cmpg313-artificial-intelligence) | AI coursework portfolio | Python labs covering K-Means clustering, AI history/concepts, uninformed search, A* search, and YOLOv8 object detection |
 | [python-intro-programming](https://github.com/Naxisbeast/python-intro-programming) | Intro programming | Python basics, input/output, conditionals, loops, functions, lists, files, CLI programs |
 | [cpp-structured-programming](https://github.com/Naxisbeast/cpp-structured-programming) | Structured programming | C++, functions, arrays, structs, loops, conditionals, procedural mini-projects |
-| [CMPG313-KMeans-Network-Clustering](https://github.com/Naxisbeast/CMPG313-KMeans-Network-Clustering) | AI / data clustering lab | Python, K-Means, NetworkX, data visualisation |
-| [CMPG_313_AI_Object_Detection](https://github.com/Naxisbeast/CMPG_313_AI_Object_Detection) | Object detection lab | Python, YOLOv8, OpenCV, computer vision basics |
 | `ICT-Liquidity-Research-Engine / AURUM-1` | Personal side project | Research-driven algorithmic trading experiments and system-building practice |
 
 ---
@@ -78,7 +77,7 @@ I want my portfolio to show that I can:
 - Adding screenshots and short demo walkthroughs to full-stack projects.
 - Adding test plans and basic tests where they make sense.
 - Expanding foundation repos into deeper examples over time.
-- Improving AI labs with cleaner inputs, outputs, and evaluation notes.
+- Improving AI coursework labs with cleaner inputs, outputs, and evaluation notes.
 - Keeping group-project repositories honest about team contribution and academic context.
 
 ---
