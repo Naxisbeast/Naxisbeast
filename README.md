@@ -9,8 +9,7 @@
 <p align="center">
   <a href="https://thapelo-wana-portfolio.vercel.app">Portfolio</a> •
   <a href="mailto:wanakamogelo@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/thapelo-wana-55a42231a/">LinkedIn</a> •
-  <a href="https://github.com/Naxisbeast">GitHub</a>
+  <a href="https://www.linkedin.com/in/thapelo-wana-55a42231a/">LinkedIn</a> 
 </p>
 
 ---
