@@ -54,7 +54,7 @@ I want my portfolio to show that I can:
 | [cmpg313-artificial-intelligence](https://github.com/Naxisbeast/cmpg313-artificial-intelligence) | AI coursework portfolio | Python labs covering K-Means clustering, AI history/concepts, uninformed search, A* search, and YOLOv8 object detection |
 | [python-intro-programming](https://github.com/Naxisbeast/python-intro-programming) | Intro programming | Python basics, input/output, conditionals, loops, functions, lists, files, CLI programs |
 | [cpp-structured-programming](https://github.com/Naxisbeast/cpp-structured-programming) | Structured programming | C++, functions, arrays, structs, loops, conditionals, procedural mini-projects |
-| `ICT-Liquidity-Research-Engine / AURUM-1` | Personal side project | Research-driven algorithmic trading experiments and system-building practice |
+| [AURUM-1](https://github.com/Naxisbeast/AURUM-1) | Personal side project | Research-driven algorithmic trading experiments and system-building practice |
 
 ---
 
